@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gabfeu.github.io/Csq/sitemap.Csq.gz
